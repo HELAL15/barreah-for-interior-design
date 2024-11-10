@@ -352,7 +352,7 @@ html[dir='rtl'] [type=url] {
   display: block;
   width: 160px;
   height: 20px;
-  background: url("/images/section-style.svg");
+  background: url("../images/section-style.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -422,7 +422,7 @@ header .content .title::after{
   display: block;
   width: 260px;
   height: 30px;
-  background: url("/images/Layer_2-2\ \(2\).svg");
+  background: url("../images/Layer_2-2\ \(2\).svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -692,7 +692,7 @@ margin-inline: unset;
   display: block;
   width: clamp(100px,100%,260px);
   height: 30px;
-  background: url("/images/section-style.svg");
+  background: url("../images/section-style.svg");
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -950,7 +950,7 @@ margin-inline: unset;
   transform: translateY(-50%);
   width: 16px;
   height: 16px;
-  background: url('/images/list-style-price.svg');
+  background: url('../images/list-style-price.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1039,7 +1039,7 @@ footer .footer-logo::after,footer .footer-logo::before{
   transform: translateY(-50%);
   width: 100%;
   height: 30px;
-  background: url('/images/Layer_2-2\ \(2\).svg');
+  background: url('../images/Layer_2-2\ \(2\).svg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
